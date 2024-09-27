@@ -1,2 +1,2 @@
-# analysis-Excel-
+# analysis-Excel
 Data analysis using Excel (personal)
